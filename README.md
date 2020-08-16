@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Alex - aka SaoBiz 👋
+
+## I'm a Full Stack .NET Developer and gamer!
+
+- 🔭 I’m currently working on some private projects which I will hopefully be able to share soon
+- 🌱 I’m currently learning NativeScript and ReactNative
+- 🥅 My Goals are to contribute more to Open Source projects
+- ⚡ Fun fact: I am addicted to collecting Playstation Trophies
 
 <!--
 **SaoBiz/SaoBiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
